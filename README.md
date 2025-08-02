@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=R47148" alt="R47148" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/[your_twitter]" target="blank"><img src="https://img.shields.io/twitter/follow/[your_twitter]?logo=twitter&style=for-the-badge" alt="[your_twitter]" /></a> </p>
+<p align="left"> <a href="https://twitter.com/[your_twitter]" target="blank"><img src="https://img.shields.io/twitter/follow/[your_twitter]?logo=twitter&style=for-the-badge" alt="https://x.com/Roky131000" /></a> </p>
 
 - 🔭 I’m currently working on [Your Project](https://your-project-link.com/)
 
@@ -22,10 +22,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/[your_devto]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="[your_devto]" height="30" width="40" /></a>
-<a href="https://twitter.com/[your_twitter]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[your_twitter]" height="30" width="40" /></a>
+<a href="https://x.com/Roky131000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[your_twitter]" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rokysingha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[your_linkedin]" height="30" width="40" /></a>
-<a href="https://kaggle.com/[your_kaggle]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="[your_kaggle]" height="30" width="40" /></a>
-<a href="https://instagram.com/[your_instagram]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[your_instagram]" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/rokysingha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="[your_kaggle]" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[your_instagram]" height="30" width="40" /></a>
 <a href="https://medium.com/@[your_medium]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="[your_medium]" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/[your_youtube]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[your_youtube]" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/[your_codechef]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="[your_codechef]" height="30" width="40" /></a>
